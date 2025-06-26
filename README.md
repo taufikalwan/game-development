@@ -1,0 +1,1 @@
+"Ninja Programmer" adalah game aksi-petualangan yang terinspirasi dari game klasik "Metal Slug". Dalam game ini, pemain mengendalikan karakter utama yang berperan sebagai seorang programmer ninja yang berpetualang di dunia game yang luas dan penuh tantangan. Pemain harus menghadapi berbagai musuh dan rintangan sambil mengumpulkan poin dari setiap musuh yang dikalahkan.
